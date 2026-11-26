@@ -2,7 +2,7 @@
 # A 30-day commitment to building consistency, learning in public, and shipping small wins every day.
 
 ## 🎯 Goal & Focus
-* **Challenge Theme:** building ai agents 
+* **Challenge Theme:** building projects, and keeping track of all the information I consumed. 
 * **Daily Time Commitment:** 2 hours or 3 hours
 
 ## 📋 Rules of Engagement
